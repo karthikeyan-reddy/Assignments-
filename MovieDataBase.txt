@@ -1,0 +1,6 @@
+﻿       &&&&&&&&%%%%%%%%%%%@@@@@@@@ WELCOME TO WORLD LARGEST MOVIE DATABASE &&&&&&&&&&&&&&&%%%%%%%%%%@@@@@@@@@@@@@@
+FOR ADDING A NEW MOVIE TO DATABASE -----------------------------------> PRESS N
+TO UPDATE MOVIE DETAILS IN DATABASE ----------------------------------> PRESS U
+TO FIND THE MOVIES DATA IN DATABASE ----------------------------------> PRESS F
+TO REMOVE A MOVIE FROM DATABASE     ----------------------------------> PRESS R
+CAUTION: ALL OTHER ENTRIES WILL CLOSE THE APPLICATION !!!!!!!!
