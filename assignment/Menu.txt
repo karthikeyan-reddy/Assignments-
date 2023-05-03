@@ -1,0 +1,9 @@
+﻿************************* LIBRARY MANAGER v1.0 ********************************
+TO ADD A BOOK --------------------------PRESS N
+TO UPDATE A BOOK -----------------------PRESS U
+TO FIND A BOOK -------------------------PRESS F
+TO DELETE A BOOK -----------------------PRESS D
+TO GET ALL BOOKS -----------------------PRESS G
+!!! OTHER ENTRIES WILL CLOSE THE APPLICATION !!!
+
+Waiting For Your Response !!!!!! 
